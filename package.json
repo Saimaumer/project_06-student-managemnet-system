@@ -1,0 +1,20 @@
+{
+  "name": "student-management-system-by-saima",
+  "version": "1.0.0",
+  "description": "student management system cli program",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SAIMA",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
